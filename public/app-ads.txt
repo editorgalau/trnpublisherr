@@ -166,3 +166,20 @@ kidoz.net, 19692013, RESELLER
 reforge.in, 107, RESELLER
 reforge.in, 353, RESELLER
 unity.com, 3788858, DIRECT, 96cabb5fbdde37a7
+bidmachine.io, 114, RESELLER
+
+bidmachine.io, 67, RESELLER
+
+mintegral.com, 10038, RESELLER
+
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+
+liftoff.io, 7f6945815e6, RESELLER
+
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
+
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
