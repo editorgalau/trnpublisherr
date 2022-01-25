@@ -185,3 +185,5 @@ loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+
+google.com, pub-8836904755522068, RESELLER
