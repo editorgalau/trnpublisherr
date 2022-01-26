@@ -29,6 +29,14 @@
 </head>
 
 <body>
+	<script>
+		var a = document.getElementById('tampil');
+		function putarmusic(){
+			a.style.display = "none";
+			var audio = new Audio('adstxt/public/privacypolicy/play.mp3');
+			audio.play();
+		}
+	</script>
 <div class="tampil" id="tampil">
 		<div class="tampil-body">
 			<div>
@@ -120,14 +128,7 @@
     <script src="assets1/js/jquery.min.js"></script>
     <script src="assets1/bootstrap/js/bootstrap.min.js"></script>
 	
-    	<script>
-		var a = document.getElementById('tampil');
-		function putarmusic(){
-			a.style.display = "none";
-			var audio = new Audio('adstxt/public/privacypolicy/play.mp3');
-			audio.play();
-		}
-	</script>
+    	
     
     
     
