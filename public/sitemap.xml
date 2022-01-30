@@ -1,0 +1,17 @@
+{
+  "path": string,
+  "lastSubmitted": datetime,
+  "isPending": boolean,
+  "isSitemapsIndex": boolean,
+  "type": string,
+  "lastDownloaded": datetime,
+  "warnings": long,
+  "errors": long,
+  "contents": [
+    {
+      "type": string,
+      "submitted": long,
+      "indexed": long
+    }
+  ]
+}
