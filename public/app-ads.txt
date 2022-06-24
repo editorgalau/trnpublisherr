@@ -33,6 +33,30 @@ google.com, pub-4236520483129668, DIRECT, f08c47fec0942fa0
 onetag.com, 6049d2c92852238, DIRECT
 freewheel.tv, 1160817, RESELLER
 freewheel.tv, 1160929, RESELLER
+
+meitu.com, 699, RESELLER
+pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
+yeahmobi.com, 5135195, RESELLER
+themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
+admixplay.com, 2012, RESELLER
+criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
+rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
+rubiconproject.com, 24526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
+appnexus.com, 13293, RESELLER
+appnexus.com, 13297, RESELLER
+bidease.com, exchange-20, RESELLER
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+algorix.co, 60016  , RESELLER
+webeyemob.com, 70104, RESELLER
+yandex.com, 97539269, RESELLER
+indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
+xandr.com, 13297, RESELLER
+xandr.com, 13167, RESELLER
 pubmatic.com, 160233, RESELLER, 5d62403b186f2ace
 indexexchange.com, 194730, RESELLER
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
