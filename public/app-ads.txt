@@ -1,4 +1,4 @@
-google.com, pub-3853261238598497, DIRECT, f08c47fec0942fa0
+google.com, pub-3325246295027069, DIRECT, f08c47fec0942fa0
 
 facebook.com, 1533437103707483, DIRECT, c3e20eee3f780d68
 
@@ -364,4 +364,4 @@ yandex.com, 95746987, RESELLER
 
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 
-google.com, pub-8836904755522068, RESELLER
+google.com, pub-3325246295027069, RESELLER
